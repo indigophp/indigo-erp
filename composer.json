@@ -1,0 +1,22 @@
+{
+    "name": "indigophp/indigo-erp",
+    "type": "fuel-module",
+    "description": "",
+    "license": "MIT",
+    "keywords": ["erp"],
+    "homepage": "https://indigophp.com",
+    "authors": [
+        {
+            "name": "Márk Sági-Kazár",
+            "email": "mark.sagikazar@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "erp"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
